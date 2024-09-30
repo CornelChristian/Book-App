@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vivekneupane11/book-website-nextjs.git
+   git clone https://github.com/CornelChristian/book-website-nextjs.git
    ```
 
 2. Navigate to the project directory:
